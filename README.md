@@ -74,3 +74,9 @@ No additional dependencies — this skill is SOP and strategy guidance only. Req
 ## Skill SOP
 
 See `SKILL.md` for the full strategic workflow: Step 0 (data collection) → Step 1 (chart-driven analysis) → Step 2 (strategy assessment) → Step 3 (deployment matrix) → Step 4 (second-pass search).
+
+---
+
+## Five-Skill Workflow Guide
+
+For the complete five-skill orchestration guide (Paths A / B / C), see **[WORKFLOW.md](https://github.com/jack-lee2022/patent-shared/blob/master/WORKFLOW.md)** in patent-shared.
